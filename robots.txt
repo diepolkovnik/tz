@@ -1,0 +1,13 @@
+User-agent: *
+Allow: *.js
+Allow: *.css
+Allow: *.css
+Allow: *.webp
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.png
+Disallow: /wp-admin/
+Disallow: /cgi-bin
+Disallow: */feed
+
+Sitemap: https://casino-1win-ar.com/sitemap_index.xml
